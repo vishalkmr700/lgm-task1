@@ -1,0 +1,14 @@
+html{
+	background-color: blue;
+}
+
+.cardmain{
+	display: flex;
+}
+.card{
+	padding: 0 3px 0 3px;
+
+}
+.image{
+	margin: 15px
+}
